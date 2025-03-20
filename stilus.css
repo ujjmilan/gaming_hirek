@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h3 {
+    background-color: #0ff;
+    font-weight: 28px;
+}
+.row {
+    background-color: rgba(255, 255, 255, 0.1);
+   margin: 20px;
+   padding: 25px;
+}
+h1{
+    text-align: center;
+}
